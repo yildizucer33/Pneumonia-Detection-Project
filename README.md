@@ -7,7 +7,7 @@ This project implements deep learning and transfer learning techniques to classi
 - Evaluated and benchmarked transfer learning architectures (such as VGG19, ResNet, and InceptionV3).
 - Monitored training performance using multi-class confusion matrices, loss curves, and validation accuracy.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - PyTorch / TensorFlow / Keras
 - OpenCV, Matplotlib, NumPy
